@@ -6,7 +6,7 @@ Este repositório apresenta a solução desenvolvida pela nossa equipe para a **
 
 ## 👥 Integrantes da Equipe
 - **Nome da Equipe:** Grupo 3
-- **Integrantes:**  Ana Rosa Gomes Cunhas, David Mendes, Gilmara Martins de Oliveira e Iverton José Fernandes
+- **Integrantes:**  Ana Rosa Gomes Cunha, David Mendes, Gilmara Martins de Oliveira e Iverton José Fernandes
 
 ## 🔎 Resultado em resumo (posição em 25/11/2026)
 
