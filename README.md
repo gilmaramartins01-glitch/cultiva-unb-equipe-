@@ -5,8 +5,8 @@ Este repositório apresenta a solução desenvolvida pela nossa equipe para a **
 > Exercício acadêmico. Os números deste repositório não são registro contábil oficial da UnB nem o valor total do patrimônio cultural da CAL. A cobertura é do acervo digital público, não do acervo físico.
 
 ## 👥 Integrantes da Equipe
-- **Nome da Equipe:** [Inserir o Nome da sua Equipe]
-- **Integrantes:** David Mendes, Gilmara Martins, Ana Rosa e Iverton
+- **Nome da Equipe:** Grupo 3
+- **Integrantes:**  Ana Rosa Gomes Cunhas, David Mendes, Gilmara Martins de Oliveira e Iverton José Fernandes
 
 ## 🔎 Resultado em resumo (posição em 25/11/2026)
 
